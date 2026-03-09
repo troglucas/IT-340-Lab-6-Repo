@@ -1,0 +1,299 @@
+UPTIME:  14:26:01 up  1:05,  1 user,  load average: 0.03, 0.13, 0.14
+MEM USAGE: 
+               total        used        free      shared  buff/cache   available
+Mem:            3867        1978         176          70        1742        1889
+Swap:              0           0           0
+DISK USAGE: 
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2       9.8G  5.6G  3.7G  61% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  144K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/lat39/CDROM
+UPTIME:  14:27:01 up  1:06,  1 user,  load average: 0.01, 0.10, 0.12
+MEM USAGE: 
+               total        used        free      shared  buff/cache   available
+Mem:            3867        1980         174          70        1742        1887
+Swap:              0           0           0
+DISK USAGE: 
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2       9.8G  5.6G  3.7G  61% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  144K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/lat39/CDROM
+UPTIME:  14:28:01 up  1:07,  1 user,  load average: 0.00, 0.08, 0.11
+MEM USAGE: 
+               total        used        free      shared  buff/cache   available
+Mem:            3867        1980         171          70        1744        1887
+Swap:              0           0           0
+DISK USAGE: 
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2       9.8G  5.6G  3.7G  61% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  144K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/lat39/CDROM
+UPTIME:  14:29:01 up  1:08,  1 user,  load average: 0.11, 0.10, 0.11
+MEM USAGE: 
+               total        used        free      shared  buff/cache   available
+Mem:            3867        1980         172          70        1742        1887
+Swap:              0           0           0
+DISK USAGE: 
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2       9.8G  5.6G  3.7G  61% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  144K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/lat39/CDROM
+UPTIME:  14:30:01 up  1:09,  1 user,  load average: 0.04, 0.08, 0.10
+MEM USAGE: 
+               total        used        free      shared  buff/cache   available
+Mem:            3867        1981         171          70        1742        1886
+Swap:              0           0           0
+DISK USAGE: 
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2       9.8G  5.6G  3.7G  61% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  144K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/lat39/CDROM
+UPTIME:  14:31:01 up  1:10,  1 user,  load average: 0.05, 0.08, 0.09
+MEM USAGE: 
+               total        used        free      shared  buff/cache   available
+Mem:            3867        1981         171          70        1742        1886
+Swap:              0           0           0
+DISK USAGE: 
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2       9.8G  5.6G  3.7G  61% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  144K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/lat39/CDROM
+UPTIME:  14:32:01 up  1:11,  1 user,  load average: 0.02, 0.06, 0.09
+MEM USAGE: 
+               total        used        free      shared  buff/cache   available
+Mem:            3867        1981         171          70        1742        1886
+Swap:              0           0           0
+DISK USAGE: 
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2       9.8G  5.6G  3.7G  61% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  144K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/lat39/CDROM
+UPTIME:  14:33:01 up  1:12,  1 user,  load average: 0.17, 0.08, 0.09
+MEM USAGE: 
+               total        used        free      shared  buff/cache   available
+Mem:            3867        2149         115          70        1689        1718
+Swap:              0           0           0
+DISK USAGE: 
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2       9.8G  5.6G  3.7G  61% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  144K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/lat39/CDROM
+UPTIME:  14:34:01 up  1:13,  1 user,  load average: 0.06, 0.06, 0.09
+MEM USAGE: 
+               total        used        free      shared  buff/cache   available
+Mem:            3867        1976         287          70        1689        1891
+Swap:              0           0           0
+DISK USAGE: 
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2       9.8G  5.6G  3.7G  61% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  144K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/lat39/CDROM
+UPTIME:  14:35:01 up  1:14,  1 user,  load average: 0.02, 0.05, 0.08
+MEM USAGE: 
+               total        used        free      shared  buff/cache   available
+Mem:            3867        1978         285          70        1689        1889
+Swap:              0           0           0
+DISK USAGE: 
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2       9.8G  5.6G  3.7G  61% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  144K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/lat39/CDROM
+UPTIME:  14:36:01 up  1:15,  1 user,  load average: 0.01, 0.04, 0.07
+MEM USAGE: 
+               total        used        free      shared  buff/cache   available
+Mem:            3867        1977         285          70        1690        1890
+Swap:              0           0           0
+DISK USAGE: 
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2       9.8G  5.6G  3.7G  61% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  144K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/lat39/CDROM
+UPTIME:  14:37:01 up  1:16,  1 user,  load average: 0.00, 0.03, 0.07
+MEM USAGE: 
+               total        used        free      shared  buff/cache   available
+Mem:            3867        1977         285          70        1690        1890
+Swap:              0           0           0
+DISK USAGE: 
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2       9.8G  5.6G  3.7G  61% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  144K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/lat39/CDROM
+UPTIME:  14:38:01 up  1:17,  1 user,  load average: 0.00, 0.02, 0.06
+MEM USAGE: 
+               total        used        free      shared  buff/cache   available
+Mem:            3867        1986         273          70        1691        1881
+Swap:              0           0           0
+DISK USAGE: 
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2       9.8G  5.6G  3.7G  61% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  144K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/lat39/CDROM
+UPTIME:  14:39:01 up  1:18,  1 user,  load average: 0.00, 0.02, 0.06
+MEM USAGE: 
+               total        used        free      shared  buff/cache   available
+Mem:            3867        1959         281          70        1691        1908
+Swap:              0           0           0
+DISK USAGE: 
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2       9.8G  5.6G  3.7G  61% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  144K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/lat39/CDROM
+UPTIME:  14:40:01 up  1:19,  1 user,  load average: 0.00, 0.01, 0.05
+MEM USAGE: 
+               total        used        free      shared  buff/cache   available
+Mem:            3867        1958         281          70        1691        1909
+Swap:              0           0           0
+DISK USAGE: 
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2       9.8G  5.6G  3.7G  61% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  144K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/lat39/CDROM
+UPTIME:  14:41:01 up  1:20,  1 user,  load average: 0.00, 0.00, 0.04
+MEM USAGE: 
+               total        used        free      shared  buff/cache   available
+Mem:            3867        1958         281          70        1692        1909
+Swap:              0           0           0
+DISK USAGE: 
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2       9.8G  5.6G  3.7G  61% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  144K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/lat39/CDROM
+UPTIME:  14:42:01 up  1:21,  1 user,  load average: 0.00, 0.00, 0.04
+MEM USAGE: 
+               total        used        free      shared  buff/cache   available
+Mem:            3867        1959         281          70        1692        1908
+Swap:              0           0           0
+DISK USAGE: 
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2       9.8G  5.6G  3.7G  61% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  144K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/lat39/CDROM
+UPTIME:  14:43:01 up  1:22,  1 user,  load average: 0.00, 0.00, 0.03
+MEM USAGE: 
+               total        used        free      shared  buff/cache   available
+Mem:            3867        1967         270          70        1693        1900
+Swap:              0           0           0
+DISK USAGE: 
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2       9.8G  5.6G  3.7G  61% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  148K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/lat39/CDROM
+UPTIME:  14:44:01 up  1:23,  1 user,  load average: 0.07, 0.03, 0.04
+MEM USAGE: 
+               total        used        free      shared  buff/cache   available
+Mem:            3867        1967         270          70        1693        1900
+Swap:              0           0           0
+DISK USAGE: 
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2       9.8G  5.6G  3.7G  61% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  148K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/lat39/CDROM
+UPTIME:  14:45:01 up  1:24,  1 user,  load average: 0.02, 0.02, 0.03
+MEM USAGE: 
+               total        used        free      shared  buff/cache   available
+Mem:            3867        1967         270          70        1693        1900
+Swap:              0           0           0
+DISK USAGE: 
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2       9.8G  5.6G  3.7G  61% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  148K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/lat39/CDROM
+UPTIME:  14:46:01 up  1:25,  1 user,  load average: 0.01, 0.02, 0.03
+MEM USAGE: 
+               total        used        free      shared  buff/cache   available
+Mem:            3867        1967         270          70        1693        1900
+Swap:              0           0           0
+DISK USAGE: 
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2       9.8G  5.6G  3.7G  61% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  148K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/lat39/CDROM
+UPTIME:  14:47:01 up  1:26,  1 user,  load average: 0.00, 0.01, 0.02
+MEM USAGE: 
+               total        used        free      shared  buff/cache   available
+Mem:            3867        1967         270          70        1693        1900
+Swap:              0           0           0
+DISK USAGE: 
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2       9.8G  5.6G  3.7G  61% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  148K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/lat39/CDROM
+UPTIME:  14:48:01 up  1:27,  1 user,  load average: 0.00, 0.00, 0.01
+MEM USAGE: 
+               total        used        free      shared  buff/cache   available
+Mem:            3867        1974         261          70        1695        1893
+Swap:              0           0           0
+DISK USAGE: 
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2       9.8G  5.6G  3.7G  61% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  148K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/lat39/CDROM
